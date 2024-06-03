@@ -1,0 +1,202 @@
+[
+  {
+    "id": "01",
+    "SamplePic01": "https://plus.unsplash.com/premium_photo-1669741909456-61b8b9b3f329?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dmVydGljYWwlMjBsYW5kc2NhcGV8ZW58MHwxfDB8fHww",
+    "title": "3 Days 2 Night Package in Manali",
+    "price": "₹8,999",
+    "date": "30 May",
+    "location": "Manali",
+    "daytonight": "2N/3D",
+    "tag": "Recommended"
+  },
+  {
+    "id": "02",
+    "SamplePic02": "https://images.unsplash.com/photo-1544376798-89aa6b82c6cd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dmVydGljYWwlMjBsYW5kc2NhcGV8ZW58MHwxfDB8fHww",
+    "title": "4 Days 3 Night Package in Rajgir",
+    "price": "₹5,599",
+    "date": "2 Jun",
+    "location": "Rajgir",
+    "daytonight": "3N/4D",
+    "tag": "Local"
+  },
+  {
+    "id": "03",
+    "SamplePic03": "https://plus.unsplash.com/premium_photo-1661835218311-0e1ffe741958?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjF8fHZlcnRpY2FsJTIwbGFuZHNjYXBlfGVufDB8MXwwfHx8MA%3D%3D",
+    "title": "7 Days 6 Night Package in Australia",
+    "price": "₹45,599",
+    "date": "12 Aug",
+    "location": "Australia",
+    "daytonight": "6N/7D",
+    "tag": "International"
+  },
+  {
+    "id": "04",
+    "SamplePic04": "https://plus.unsplash.com/premium_photo-1689751740042-3031b760b34f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8dmVydGljYWwlMjBsYW5kc2NhcGV8ZW58MHwxfDB8fHww",
+    "title": "9 Days 8 Night Package in Peru",
+    "price": "₹35,599",
+    "date": "2 Aug",
+    "location": "Peru",
+    "daytonight": "8N/9D",
+    "tag": "International"
+  },
+  {
+    "id": "05",
+    "SamplePic05": "https://images.unsplash.com/photo-1623023703148-dfa127214936?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHZlcnRpY2FsJTIwbGFuZHNjYXBlfGVufDB8MXwwfHx8MA%3D%3D",
+    "title": "5 Days 4 Night Package in Goa",
+    "price": "₹12,999",
+    "date": "15 Sep",
+    "location": "Goa",
+    "daytonight": "4N/5D",
+    "tag": "Recommended"
+  },
+  {
+    "id": "06",
+    "SamplePic06": "https://images.unsplash.com/photo-1534142499731-a32a99935397?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dmVydGljYWwlMjBsYW5kc2NhcGV8ZW58MHwxfDB8fHww",
+    "title": "6 Days 5 Night Package in Thailand",
+    "price": "₹30,999",
+    "date": "5 Jul",
+    "location": "Thailand",
+    "daytonight": "5N/6D",
+    "tag": "International"
+  },
+  {
+    "id": "07",
+    "SamplePic07": "https://plus.unsplash.com/premium_photo-1669218058122-48ac06e4ec10?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8dmVydGljYWwlMjBsYW5kc2NhcGV8ZW58MHwxfDB8fHww",
+    "title": "3 Days 2 Night Package in Shimla",
+    "price": "₹6,999",
+    "date": "18 Jun",
+    "location": "Shimla",
+    "daytonight": "2N/3D",
+    "tag": "Local"
+  },
+  {
+    "id": "08",
+    "SamplePic08": "https://images.unsplash.com/photo-1518410240146-36aeeed0e4f9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8dmVydGljYWwlMjBsYW5kc2NhcGV8ZW58MHwxfDB8fHww",
+    "title": "7 Days 6 Night Package in Leh",
+    "price": "₹75,999",
+    "date": "10 Oct",
+    "location": "Leh",
+    "daytonight": "6N/7D",
+    "tag": "International"
+  },
+  {
+    "id": "09",
+    "SamplePic09": "https://images.unsplash.com/photo-1505521377774-103a8cc2f735?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHZlcnRpY2FsJTIwbGFuZHNjYXBlfGVufDB8MXwwfHx8MA%3D%3D",
+    "title": "9 Days 8 Night Package in Canada",
+    "price": "₹55,999",
+    "date": "5 Aug",
+    "location": "Canada",
+    "daytonight": "8N/9D",
+    "tag": "International"
+  },
+  {
+    "id": "10",
+    "SamplePic10": "https://images.unsplash.com/photo-1478059299873-f047d8c5fe1a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dmVydGljYWwlMjBsYW5kc2NhcGV8ZW58MHwxfDB8fHww",
+    "title": "3 Days 2 Night Package in Kerala",
+    "price": "₹7,999",
+    "date": "20 Jul",
+    "location": "Kerala",
+    "daytonight": "2N/3D",
+    "tag": "Recommended"
+  },
+  {
+    "id": "11",
+    "SamplePic11": "https://images.unsplash.com/photo-1502675135487-e971002a6adb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHZlcnRpY2FsJTIwbGFuZHNjYXBlfGVufDB8MXwwfHx8MA%3D%3D",
+    "title": "4 Days 3 Night Package in Rajasthan",
+    "price": "₹9,999",
+    "date": "15 Nov",
+    "location": "Rajasthan",
+    "daytonight": "3N/4D",
+    "tag": "Local"
+  },
+  {
+    "id": "12",
+    "SamplePic12": "https://images.unsplash.com/photo-1592743263126-bb241ee76ac7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHZlcnRpY2FsJTIwbGFuZHNjYXBlfGVufDB8MXwwfHx8MA%3D%3D",
+    "title": "6 Days 5 Night Package in Maldives",
+    "price": "₹40,999",
+    "date": "1 Dec",
+    "location": "Maldives",
+    "daytonight": "5N/6D",
+    "tag": "International"
+  },
+  {
+    "id": "13",
+    "SamplePic13": "https://images.unsplash.com/photo-1618356387617-8d2f8cfbc79c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHZlcnRpY2FsJTIwbGFuZHNjYXBlfGVufDB8MXwwfHx8MA%3D%3D",
+    "title": "7 Days 6 Night Package in New Zealand",
+    "price": "₹60,999",
+    "date": "10 Sep",
+    "location": "New Zealand",
+    "daytonight": "6N/7D",
+    "tag": "International"
+  },
+  {
+    "id": "14",
+    "SamplePic14": "https://images.unsplash.com/photo-1623023703148-dfa127214936?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHZlcnRpY2FsJTIwbGFuZHNjYXBlfGVufDB8MXwwfHx8MA%3D%3D",
+    "title": "8 Days 7 Night Package in Japan",
+    "price": "₹80,999",
+    "date": "25 Oct",
+    "location": "Japan",
+    "daytonight": "7N/8D",
+    "tag": "International"
+  },
+  {
+    "id": "15",
+    "SamplePic15": "https://images.unsplash.com/photo-1531932594968-e5e5e9dee95a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fHZlcnRpY2FsJTIwbGFuZHNjYXBlfGVufDB8MXwwfHx8MA%3D%3D",
+    "title": "5 Days 4 Night Package in Dubai",
+    "price": "₹40,999",
+    "date": "10 Nov",
+    "location": "Dubai",
+    "daytonight": "4N/5D",
+    "tag": "International"
+  },
+  {
+    "id": "16",
+    "SamplePic16": "https://images.unsplash.com/photo-1436891620584-47fd0e565afb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fHZlcnRpY2FsJTIwbGFuZHNjYXBlfGVufDB8MXwwfHx8MA%3D%3D",
+    "title": "5 Days 4 Night Package in France",
+    "price": "₹65,999",
+    "date": "30 Nov",
+    "location": "France",
+    "daytonight": "5N/6D",
+    "tag": "International"
+  },
+  {
+    "id": "17",
+    "SamplePic17": "https://images.unsplash.com/photo-1508766206392-8bd5cf550d1c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fHZlcnRpY2FsJTIwbGFuZHNjYXBlfGVufDB8MXwwfHx8MA%3D%3D",
+    "title": "4 Days 3 Night Package in Vietnam",
+    "price": "₹20,999",
+    "date": "12 Dec",
+    "location": "Vietnam",
+    "daytonight": "3N/4D",
+    "tag": "International"
+  },
+  {
+    "id": "18",
+    "SamplePic18": "https://plus.unsplash.com/premium_photo-1669741909462-77a4b8c3f7c5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fHZlcnRpY2FsJTIwbGFuZHNjYXBlfGVufDB8MXwwfHx8MA%3D%3D",
+    "title": "7 Days 6 Night Package in Italy",
+    "price": "₹70,999",
+    "date": "20 Oct",
+    "location": "Italy",
+    "daytonight": "6N/7D",
+    "tag": "International"
+  },
+  {
+    "id": "19",
+    "SamplePic19": "https://images.unsplash.com/photo-1618356387902-245c575733f0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fHZlcnRpY2FsJTIwbGFuZHNjYXBlfGVufDB8MXwwfHx8MA%3D%3D",
+    "title": "5 Days 4 Night Package in Spain",
+    "price": "₹50,999",
+    "date": "30 Sep",
+    "location": "Spain",
+    "daytonight": "4N/5D",
+    "tag": "International"
+  },
+  {
+    "id": "20",
+    "SamplePic20": "https://images.unsplash.com/photo-1512850183-6d7990f42385?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fHZlcnRpY2FsJTIwbGFuZHNjYXBlfGVufDB8MXwwfHx8MA%3D%3D",
+    "title": "4 Days 3 Night Package in Bali",
+    "price": "₹25,999",
+    "date": "22 Sep",
+    "location": "Bali",
+    "daytonight": "3N/4D",
+    "tag": "International"
+  }
+]
