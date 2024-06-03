@@ -62,10 +62,10 @@ git push origin <branch_name>
 
 ## Demo Images
 
-![1]("https://raw.githubusercontent.com/Kashyap1ankit/MAP_Frontend_Challenge_01/main/public/demo/1.png")
-![2]("https://raw.githubusercontent.com/Kashyap1ankit/MAP_Frontend_Challenge_01/main/public/demo/2.png")
-![3]("https://raw.githubusercontent.com/Kashyap1ankit/MAP_Frontend_Challenge_01/main/public/demo/3.png")
-![4]("https://raw.githubusercontent.com/Kashyap1ankit/MAP_Frontend_Challenge_01/main/public/demo/4.png")
+![1](https://github.com/Kashyap1ankit/MAP_Frontend_Challenge_01/assets/121277178/18afb749-4682-4bb2-9c17-618a1f584c67)
+![2](https://github.com/Kashyap1ankit/MAP_Frontend_Challenge_01/assets/121277178/323e8547-85ed-4f11-af92-72f6226ca247)
+![3](https://github.com/Kashyap1ankit/MAP_Frontend_Challenge_01/assets/121277178/b3a3b0a9-6a00-49b0-b39b-5f79419ce25c)
+![4](https://github.com/Kashyap1ankit/MAP_Frontend_Challenge_01/assets/121277178/12c83bcb-5353-4494-808d-625230173940)
 
 ## DEMO VIDEO
 

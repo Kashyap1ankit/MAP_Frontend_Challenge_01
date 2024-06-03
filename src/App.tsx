@@ -35,10 +35,10 @@ function App() {
 
         <div className="w-full flex justify-btween xsm:px-4 xsm:py-2 xl:px-8 xl:py-2 overflow-x-scroll no-scrollbar">
           {data.map((e: any) => {
-            const imageKey = Object.keys(e).find((key) => {
-              return key.startsWith("SamplePic");
-            });
-            const imageUrl = e[imageKey];
+            const imageKey = Object.keys(e).find((key) =>
+              key.startsWith("SamplePic")
+            );
+            const imageUrl = imageKey ? e[imageKey] : "";
             return (
               <Card
                 title={e.title}
