@@ -62,7 +62,7 @@ git push origin <branch_name>
 
 ## Demo Images
 
-![1]("https://raw.githubusercontent.com/Kashyap1ankit/MAP_Frontend_Challenge_01/main/public/demo/1.png)
+![1]("https://raw.githubusercontent.com/Kashyap1ankit/MAP_Frontend_Challenge_01/main/public/demo/1.png")
 ![2]("https://raw.githubusercontent.com/Kashyap1ankit/MAP_Frontend_Challenge_01/main/public/demo/2.png")
 ![3]("https://raw.githubusercontent.com/Kashyap1ankit/MAP_Frontend_Challenge_01/main/public/demo/3.png")
 ![4]("https://raw.githubusercontent.com/Kashyap1ankit/MAP_Frontend_Challenge_01/main/public/demo/4.png")
