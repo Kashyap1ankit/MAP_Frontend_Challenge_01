@@ -62,10 +62,10 @@ git push origin <branch_name>
 
 ## Demo Images
 
-![1]("/demo/1.png")
-![2]("/demo/2.png")
-![3]("/demo/3.png")
-![4]("/demo/4.png")
+![1]("public/demo/1.png")
+![2]("public/demo/2.png")
+![3]("public/demo/3.png")
+![4]("public/demo/4.png")
 
 ## DEMO VIDEO
 
